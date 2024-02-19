@@ -1,0 +1,34 @@
+{ 
+      "myBudget":
+
+[
+    {
+        "title": "lily",
+        "budget": 20
+    },
+    {
+        "title": "grass",
+        "budget": 15
+    },
+    {
+        "title": "Sunflower",
+        "budget": 15
+    },
+    {
+        "title": "Century",
+        "budget": 315
+    },
+    {
+        "title": "Game",
+        "budget": 80
+    },
+    {
+        "title": "Source",
+        "budget": 20
+    },
+    {
+        "title": "Other",
+        "budget": 50
+    }
+]
+}
